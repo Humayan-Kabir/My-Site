@@ -1,11 +1,13 @@
 body {
   margin: 0 0 0 0;
+  font-family: verdana, sans-serif;
 }
 div {
   background-color: #E4F9F5;
 }
 h1 {
   margin-top: 0;
+  font-family: 'Sacramento', cursive, sans-serif;
 }
 .top-container {
   text-align: center;
